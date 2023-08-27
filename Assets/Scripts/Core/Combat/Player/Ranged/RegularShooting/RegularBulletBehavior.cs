@@ -1,0 +1,2 @@
+public class RegularBulletBehavior : BulletBehavior
+{ }

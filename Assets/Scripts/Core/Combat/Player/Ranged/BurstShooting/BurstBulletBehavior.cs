@@ -1,0 +1,2 @@
+public class BurstBulletBehavior : BulletBehavior
+{ }

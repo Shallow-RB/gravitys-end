@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scripts/Core/Combat/Enemy/Melee.meta
+guid: 5fba324a47c4dbe469a168567c88c49b
+========
+guid: 5bb75f160de6af246b496729ece07057
+>>>>>>>> new-development:Assets/Media/Animations/Enemy.meta
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
